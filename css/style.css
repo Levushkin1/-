@@ -266,7 +266,8 @@ body {
 
 .mobile-nav-list {
   font-size: 32px;
-  margin-bottom: 40%;
+  margin-bottom:auto;
+  margin-top: auto;
 }
 
 .mobile-nav-list li + li {
