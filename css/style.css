@@ -412,8 +412,8 @@ body {
   width: 60px;
   text-align: center;
   position: fixed;
-  right: 50px;
-  bottom: 50px;
+  right: 20px;
+  bottom: 20px;
   z-index: 999;
   transition: 0.3s;
   -webkit-animation: hoverWave linear 1s infinite;
