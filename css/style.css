@@ -720,7 +720,7 @@ body {
   visibility: hidden;
 }
 .sliders__box {
-  display: flex;
+  display: flex !important;
   justify-content: space-between;
   padding-left: 150px;
   padding-right: 150px;
