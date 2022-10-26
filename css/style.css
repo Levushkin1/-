@@ -1121,11 +1121,23 @@ body {
     margin-top: 10px;
     margin-bottom: 44px;
   }
-  .order__title {
-    margin-top: 60px;
-  }
   .order__form-box {
-    margin-bottom: 60px;
+    margin: 0 auto;
+    max-width: 350px;
+  }
+  .order__form-input {
+    margin-bottom: 40px;
+    width: 100%;
+  }
+  .order__checkboxs {
+    margin-bottom: 70px;
+    width: 100%;
+    justify-content: start;
+  }
+  .order__form-btn {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 70px;
   }
   .footer {
     padding-top: 58px;
@@ -1270,24 +1282,7 @@ body {
   .reviews__column--3 {
     display: none;
   }
-  .order__form-box {
-    margin: 0 auto;
-    max-width: 350px;
-  }
-  .order__form-input {
-    margin-bottom: 40px;
-    width: 100%;
-  }
-  .order__checkboxs {
-    margin-bottom: 70px;
-    width: 100%;
-    justify-content: start;
-  }
-  .order__form-btn {
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 70px;
-  }
+  
   .adress__card {
     position: relative;
     left: 0;
