@@ -1349,6 +1349,9 @@ body {
     min-height: 301px;
     height: 100%;
   }
+  .slick-dots {
+    display: none !important;
+  }
 }
 @media (max-width: 320px) {
   .sliders__image {
