@@ -1355,4 +1355,7 @@ body {
     width: 320px;
     height: 203px;
   }
+   .slick-arrow {
+    display: none !important;
+  }
 }
