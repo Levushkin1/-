@@ -958,9 +958,8 @@ body {
 }
 .adress__map-box {
   position: relative;
-  width: 90%;
-  margin: 0 auto;
-  height: 100%;
+    width: 90%;
+    margin: 0 auto;
 }
 .adress__card {
   position: absolute;
